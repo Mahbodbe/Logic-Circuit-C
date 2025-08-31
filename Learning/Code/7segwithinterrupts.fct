@@ -1,0 +1,2 @@
+main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"7segwithinterrupts.c" LINE:14
+ext_int0_isr DSTACK_USAGE:2 DSTACK_LEVEL:2 FILE:"7segwithinterrupts.c" LINE:8

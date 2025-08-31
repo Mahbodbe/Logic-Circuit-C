@@ -1,0 +1,9 @@
+VERSION:3 SOURCE_TIMESTAMP:5A7EB760
+NODE:I LEVEL:0 LINE:1 "C:\cvavr\inc\mega32.h"
+NODE:I LEVEL:0 LINE:2 "C:\cvavr\inc\alcd.h"
+NODE:I LEVEL:0 LINE:3 "C:\cvavr\inc\stdio.h"
+NODE:V LEVEL:0 LINE:5 "i -> R4,R5"
+NODE:V LEVEL:0 LINE:5 "t -> R6,R7"
+NODE:V LEVEL:0 LINE:6 "str -> RAM:????"
+NODE:F LEVEL:0 LINE:9 "timer0_ovf_isr(void)"
+NODE:F LEVEL:0 LINE:18 "main(void)"
