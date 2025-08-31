@@ -1,0 +1,9 @@
+VERSION:3 SOURCE_TIMESTAMP:5A55785D
+NODE:I LEVEL:0 LINE:1 "C:\cvavr\inc\mega32.h"
+NODE:I LEVEL:0 LINE:2 "C:\cvavr\inc\delay.h"
+NODE:V LEVEL:0 LINE:4 "a -> R5"
+NODE:V LEVEL:0 LINE:5 "b -> R4"
+NODE:V LEVEL:0 LINE:6 "c -> R7"
+NODE:V LEVEL:0 LINE:7 "d -> R6"
+NODE:V LEVEL:0 LINE:8 "timer -> RAM:????"
+NODE:F LEVEL:0 LINE:10 "main(void)"
